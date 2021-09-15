@@ -9,7 +9,7 @@ Quick Links:
 A website I worked on:
   moralinquiry.com
 A game demo I made:
-
+  *ASK FOR DEMO, THE UPLOAD LINK BROKE*
 
 <!---
 Gavin-Hawk/Gavin-Hawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
